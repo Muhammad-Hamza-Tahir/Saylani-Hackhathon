@@ -24,11 +24,12 @@ export default function NavBar() {
         <li className="nav-item">
           <Link className="nav-link shopping" to='/about'>About</Link>
         </li>
-        <li className="nav-item">
-          <Link className="nav-link shopping " to='/cart'>Cart</Link>
-        </li>
+        
         <li className="nav-item">
           <Link className="nav-link shopping " to='/login'>Login</Link>
+        </li>
+        <li className="nav-item">
+          <Link className="nav-link shopping " to='/cart'><i class="fas fa-shopping-cart"></i></Link>
         </li>
       </ul>
     </div>

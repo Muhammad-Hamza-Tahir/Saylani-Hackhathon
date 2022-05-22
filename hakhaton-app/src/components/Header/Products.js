@@ -26,16 +26,19 @@ export default function Products() {
                         <img className='resize1' src={image4} alt="" />
                         <p className='text-center mt-2'>Red Printed T-shirt</p>
                         <p className='text-center '><b>$100</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
                     <div className='col-lg-4 col-md-4 col-sm-12'>
                         <img className='resize1' src={image5} alt="" />
                         <p className='text-center mt-2'>Red Printed T-shirt</p>
                         <p className='text-center '><b>$100</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
                     <div className='col-lg-4 col-md-4 col-sm-12'>
                         <img className='resize1' src={image6} alt="" />
                         <p className='text-center mt-2'>Red Printed T-shirt</p>
                         <p className='text-center '><b>$100</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
 
 
@@ -44,16 +47,19 @@ export default function Products() {
                         <img className='resize1' src={image7} alt="" />
                         <p className='text-center mt-2'>Red Printed T-shirt</p>
                         <p className='text-center '><b>$100</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
                     <div className='col-lg-4 col-md-4 col-sm-12'>
                         <img className='resize1' src={image8} alt="" />
                         <p className='text-center mt-2'>Shoes black</p>
                         <p className='text-center '><b>$200</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
                     <div className='col-lg-4 col-md-4 col-sm-12'>
                         <img className='resize1' src={image9} alt="" />
                         <p className='text-center mt-2'>Pent</p>
                         <p className='text-center '><b>$100</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
 
 
@@ -61,16 +67,19 @@ export default function Products() {
                         <img className='resize1' src={image1} alt="" />
                         <p className='text-center mt-2'>Red Printed T-shirt</p>
                         <p className='text-center '><b>$100</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
                     <div className='col-lg-4 col-md-4 col-sm-12'>
                         <img className='resize1' src={image2} alt="" />
                         <p className='text-center mt-2'>Shoes black</p>
                         <p className='text-center '><b>$200</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
                     <div className='col-lg-4 col-md-4 col-sm-12'>
                         <img className='resize1' src={image3} alt="" />
                         <p className='text-center mt-2'>Pent</p>
                         <p className='text-center '><b>$100</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
 
                     
@@ -78,16 +87,19 @@ export default function Products() {
                         <img className='resize1' src={image14} alt="" />
                         <p className='text-center mt-2'>Red Printed T-shirt</p>
                         <p className='text-center '><b>$100</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
                     <div className='col-lg-4 col-md-4 col-sm-12'>
                         <img className='resize1' src={image15} alt="" />
                         <p className='text-center mt-2'>Shoes black</p>
                         <p className='text-center '><b>$200</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
                     <div className='col-lg-4 col-md-4 col-sm-12'>
                         <img className='resize1' src={image16} alt="" />
                         <p className='text-center mt-2'>Pent</p>
                         <p className='text-center '><b>$100</b></p>
+                        <button type="button" class="btn btn-primary ms-5">Add to Cart</button>
                     </div>
 
 
