@@ -1,0 +1,22 @@
+.headers{
+    color: blue;
+    font-style: italic;
+    font-size: 30px;
+}
+.headers1{
+    color: red;
+    font-style: italic;
+    font-size: 30px;
+}
+*{
+    background-color: pink;
+}
+.shopping{
+    color: blue;
+    font-size: 17px;
+}
+
+.shopping:hover{
+   border-bottom: 1px solid blue;
+   color: blue;
+}
